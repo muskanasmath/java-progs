@@ -1,0 +1,10 @@
+//Write a program to convert "a=b;c=d;e=f;g=h" to [("a","b"),("c","d"),("e","f"),("g","h")]
+
+"""a=int(3)
+print("A : %d" %a )"""
+
+
+
+https://www.w3schools.com/python/python_lists.asp
+
+https://www.youtube.com/watch?v=rfscVS0vtbw
