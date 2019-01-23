@@ -1,0 +1,19 @@
+//Write a program to convert "a=b;c=d;e=f;g=h" to [("a","b"),("c","d"),("e","f"),("g","h")]
+
+print('Enter the values of b:')
+b = (input())
+print('Enter the values of d:')
+d = (input())
+print('Enter the values of f:')
+f = (input())
+print('Enter the values of h:')
+h = (input())
+
+a=b
+c=d
+e=f
+g=h
+
+print("[("+a+","+b+"),("+c+","+d+"),("+e+","+f+"),("+g+","+h+")]")
+
+
