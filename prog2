@@ -1,0 +1,19 @@
+class menu(dict):
+  
+    def __init__(self):
+   	  self._dict = {}
+   	 
+    def add(self,item, val):
+        self._dict[item] = val
+
+    def show(self):
+   	 (print(self._dict))
+   	 
+    
+   	 
+
+
+m = menu()
+m.add("idly",10)
+m.add("vada",20)
+m.show()
